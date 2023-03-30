@@ -18,8 +18,8 @@ const Skills = () => {
             Skills
           </p>
           <p className="py-4">
-            List your technical skills related to your area of expertise. This
-            can include programming languages, software tools.
+            List of technical skills related to my area of expertise. This can
+            include programming languages, software tools.
           </p>
         </div>
         <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">
