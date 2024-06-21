@@ -122,7 +122,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://www.linkedin.com/in/krishnakant-yadav-6025431b4/"
+              href="https://www.linkedin.com/in/krishna-y-701b28308/"
             >
               LinkedIn <FaLinkedin size={30} />
             </a>
@@ -130,7 +130,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://github.com/krishnakantyadav19"
+              href="https://github.com/krishnayadavdev"
             >
               GitHub <FaGithub size={30} />
             </a>
@@ -138,7 +138,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="mailto:krishnakantyadav19@gmail.com"
+              href="mailto:krishnaydev66@gmail.com"
             >
               Email <HiOutlineMail size={30} />
             </a>

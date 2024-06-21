@@ -15,7 +15,7 @@ const Home = () => {
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
           specializing in React.js, Node.js, and other modern web technologies.
-          With 1.5+ years of experience in the industry, I've had the privilege
+          With 5+ years of experience in the industry, I've had the privilege
           of working on a wide range of projects, from small websites to
           large-scale applications.
         </p>

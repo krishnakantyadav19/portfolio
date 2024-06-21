@@ -25,7 +25,27 @@ const Experience = () => {
           </p>
         </div>
         <div className="py-4 max-w-[700px]">
-          <p className="font-bold">InfoObjects Inc. Jan 2022</p>
+          <p className="font-bold">Remote Developer Jan 2022 - Present</p>
+          <p>
+          I have been working as a Remote Developer at ORIGINSCALE, 
+          where I led a team in developing a comprehensive ERP solution that integrates POS,
+           CRM, and various third-party services using React, Redux, Node.js, Express, 
+           and Serverless architecture. My role involved implementing diverse third-party integrations,
+            including UPS, Authorize.net, and Stripe, to enhance the ERP system's functionality and versatility. 
+            Additionally, I utilized AWS services such as Lambda and SNS to create a scalable and efficient backend 
+            infrastructure.
+          </p>
+          <p>
+          In another project, BanksyCRM, I developed a CRM application using Next.js 
+          to manage user payments for NFTs and blockchain transactions. I designed a comprehensive dashboard 
+          to display user payment data and analytical graphs, providing clear financial insights. To ensure secure and 
+          reliable user authentication, I implemented webhook APIs, multi-factor authentication (MFA), Google OAuth, 
+          and biometric login. The technologies used in this project included Next.js, CRM, 
+          Webhook APIs, MFA, Google OAuth, and biometric login.
+          </p>
+        </div>
+        <div className="py-4 max-w-[700px]">
+          <p className="font-bold">InfoObjects Inc. July 2019 - Dec 2021</p>
           <p>
             As a software developer, I had the opportunity to work on the
             Gupshup app for Zoho CRM Marketplace, where I contributed to both
